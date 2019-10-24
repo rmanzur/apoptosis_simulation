@@ -1,5 +1,7 @@
 %Apoptosis Extrinsic Pathway (Gillespie Stochastic Simulation)
 
+%Number of molecules (initial conditions)
+
 P8 = 30; %(inactive) procaspase 8 molecules
 C8 = 30; %(active) caspase 8 molecules
 P3 = 200; % (inactive) procaspase 3 molecules
